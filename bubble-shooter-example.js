@@ -769,7 +769,7 @@ window.onload = function() {
         // Draw title
         context.fillStyle = "#ffffff";
         context.font = "24px Verdana";
-        context.fillText("Bubble Shooter Example - Rembound.com", 10, 37);
+        context.fillText("We are going to make a cool Covid19 game - Shambhavi", 10, 37);
         
         // Display fps
         context.fillStyle = "#ffffff";
